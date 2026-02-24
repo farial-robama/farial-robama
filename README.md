@@ -3,12 +3,12 @@
 ## 💻 Frontend Developer | CSE Graduate
 
 ### 👩‍💻 About Me
-I am a Computer Science and Engineering graduate with a passion for frontend development, AI-based projects, and project management. I enjoy building **user-focused web applications** and exploring modern technologies like React.js, Next.js, and AI/ML models.  
+I am a Computer Science and Engineering graduate with a passion for frontend development, AI-based projects, and project management. I enjoy building a**user-focused web applications** and exploring modern technologies like React.js, Next.js, and AI/ML models.  
 
 ---
 
 ### 🔭 Current Activities
-- 🌱 Exploring **React.js & Next.js**  
+- 🌱 Exploring **Advanced React, Next.js & TypeScript**  
 - 🧠 Working on **AI & NLP-based projects**  
 - 📚 Improving problem-solving and system design skills  
 
@@ -22,6 +22,7 @@ I am a Computer Science and Engineering graduate with a passion for frontend dev
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 
 #### Backend & AI
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)
