@@ -3,7 +3,7 @@
 ## 💻 Frontend Developer | CSE Graduate
 
 ### 👩‍💻 About Me
-I am a Computer Science and Engineering graduate with a passion for frontend development, AI-based projects, and project management. I enjoy building a**user-focused web applications** and exploring modern technologies like React.js, Next.js, and AI/ML models.  
+I am a Computer Science and Engineering graduate with a passion for frontend development, AI-based projects, and project management. I enjoy building a **user-focused web applications** and exploring modern technologies like React.js, Next.js, and AI/ML models.  
 
 ---
 
